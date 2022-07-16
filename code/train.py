@@ -12,7 +12,7 @@ from mymodels import MyMLP, MyCNN
 #TODO: https://pytorch.org/docs/stable/notes/windows.html#multiprocessing-error-without-if-clause-protection
 
 # Set a correct path to the seizure data file you downloaded
-PATH_FILE = "../data/compiled.csv"
+PATH_FILE = "../data/compiled_FC_70.csv"
 
 # Path for saving model
 PATH_OUTPUT = "../output/"
